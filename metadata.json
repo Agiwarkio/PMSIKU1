@@ -1,0 +1,7 @@
+{
+  "name": "PMS (Partner Management System) IKU 6 & 1",
+  "description": "Platform Intelijen Strategis untuk Kemitraan Perguruan Tinggi (IKU 6). Dilengkapi dengan AI untuk analisis, simulasi 'what-if', dan pengelolaan data mitra.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
